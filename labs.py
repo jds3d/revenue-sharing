@@ -2,4 +2,4 @@
 from model.config import exp
 
 # The root directory of our model code
-model_dir = "model"
+model_dir = 'model'
